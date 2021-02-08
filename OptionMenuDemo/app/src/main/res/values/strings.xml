@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenuDemo</string>
+    <string name="text_text">Hello world!</string>
+    <string name="setting_title">Setting</string>
+    <string name="share_title">Share</string>
+    <string name="feedback_title">FeedBack</string>
+    <string name="aboutus_title">About us</string>
+</resources>
